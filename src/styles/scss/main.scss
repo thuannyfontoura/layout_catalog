@@ -4,7 +4,7 @@
   padding: 50px 40px;
   display: grid;
   grid-template-columns: repeat(var(--column-count), 200px);
-  gap: var(--row-gap) var(--column-gap);
+  gap: var(--column-gap) var(--row-gap);
   justify-content: center;
 }
 
